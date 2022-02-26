@@ -1,1 +1,2 @@
 hej
+SELECT * FROM tbl_mine WHERE id=2;
