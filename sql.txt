@@ -1,2 +1,2 @@
 hej
-SELECT * FROM tbl_mine WHERE id=2;
+SELECT * FROM tbl_mine WHERE id=2 ORDER BY id;
